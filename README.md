@@ -1,8 +1,7 @@
-# Autumn School on Prospective LCA
+# Internal PSI training on LCA, scenario-based LCA and prospective LCA
 
-This repository holds the organizational and teaching material for 
-the internal PSI LEA training, dispensed by Romain Sacchi, held at
-PSI.
+This repository holds the teaching material for 
+the internal PSI LEA training.
 
 ## Course objectives
 
@@ -13,12 +12,12 @@ be divided in four parts:
 1. Introduction to [``brightway``](https://docs.brightway.dev/en/latest/) and [``activity-browser``](https://github.com/LCA-ActivityBrowser/activity-browser).
 2. Introduction to the [``wurst``](https://github.com/polca/wurst) library.
 3. Introduction to the [``premise``](https://github.com/polca/premise) library.
-4. Practical session on prospective LCA.
+4. Practical session on scenario-based and prospective LCA.
 
 
 ## Course description
 
-This course will introduce participants to LCA software, LCA data manipulation,
+This course will introduce participants to LCA, software to conduct it, LCA data manipulation,
 and prospective LCA. Hence, the course is divided in four parts. 
 
 The first part will be an introduction to ``brightway`` and ``activity-browser``.
@@ -52,6 +51,3 @@ We only ask the participants to download the following software before the cours
 
 - Anaconda: https://www.anaconda.com/products/distribution
 - Git: https://git-scm.com/downloads
-
-either of the two will allow us to create Python environment and install the required packages.
-Mamba is a faster version of conda (it installs Python packages faster).
