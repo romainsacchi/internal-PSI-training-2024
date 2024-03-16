@@ -51,7 +51,7 @@ We will install the required software during the course.
 We only ask the participants to download the following software before the course:
 
 - Anaconda: https://www.anaconda.com/products/distribution
-- OR Mamba: https://github.com/conda-forge/miniforge
+- Git: https://git-scm.com/downloads
 
 either of the two will allow us to create Python environment and install the required packages.
 Mamba is a faster version of conda (it installs Python packages faster).
