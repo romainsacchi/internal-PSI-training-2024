@@ -51,3 +51,12 @@ We only ask the participants to download the following software before the cours
 
 - Anaconda: https://www.anaconda.com/products/distribution
 - Git: https://git-scm.com/downloads
+
+## Instructions
+
+Install the `libmamba` solver in conda, for faster environment resolution:
+
+```bash
+  conda install -n base conda-libmamba-solver
+  conda config --set solver libmamba
+```
